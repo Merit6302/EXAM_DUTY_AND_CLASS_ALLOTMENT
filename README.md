@@ -1,4 +1,7 @@
-📝 Automated Exam Duty Allocation System (Mini Project)
+                                      📝 Automated Exam Duty Allocation System (Mini Project)
+
+
+
 📌 Project Overview
 This mini project is designed to automate the exam duty allocation process for teachers in educational institutions. It ensures that each classroom is supervised by one fixed duty teacher and one relieving teacher, with options to:
 Skip unavailable classrooms or teachers.
